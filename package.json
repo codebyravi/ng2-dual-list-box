@@ -60,7 +60,7 @@
     "karma-typescript": "^3.0.0",
     "karma-typescript-angular2-transform": "^1.0.0",
     "ng-packagr": "^2.1.0",
-    "node-sass": "^4.5.2",
+    "node-sass": "^4.13.1",
     "node-watch": "^0.5.2",
     "phantomjs-prebuilt": "^2.1.7",
     "protractor": "~5.1.0",
